@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jamaica Harwell
+- 👋 Hi, I’m Jamaica Harwell
 - 👀 I’m interested in HTML, CSS, JavaScript, JQuery, and Digital Design
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to enhance my coding skills
