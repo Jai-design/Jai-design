@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jamaica Harwell
-- 👀 I’m interested in HTML, CSS, JavaScript, JQuery, and Digital Design
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to enhance my coding skills
+- 👀 I’m interested in web development and UX/UI design.
+- 🌱 I’m currently learning Spanish and Japanese.
+- 💞️ I’m looking to network with other developers.
 - 📫 How to reach me jamaica.harwell91@outlook.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love anime, gaming, cooking, writing, drawing, and cosplaying.
