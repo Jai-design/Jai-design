@@ -1,12 +1,31 @@
-- 👋 Hi, I’m Jamaica Harwell
-- 👀 I’m interested in dark tourism and true crime.
-- 🌱 I’m currently learning Spanish and Japanese.
-- 💞️ I’m looking to network with and learn from other developers.
-- 📫 How to reach me jamaica.harwell91@outlook.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love anime, gaming, cooking, writing, drawing, and cosplaying.
+# Hi there, I'm Jamaica Harwell! 👋
 
-<!---
-Jai-design/Jai-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I am a transitioning professional blending a lifelong passion for cartooning, animation, and storytelling with a deep interest in software architecture and technical problem-solving. Currently based in Memphis, TN, I am actively building my skills to become a **Technical Artist / Pipeline Engineer**. 
+
+When I'm not writing scripts, I am a dedicated mother and an aspiring novelist working on my first book!
+
+---
+
+## 🛠️ What I'm Focused On Right Now
+*   🐍 **Mastering Python:** Currently building a rock-solid programming foundation through `freeCodeCamp` and `Codecademy`.
+*   🎨 **3D Software Pipeline:** Learning **Blender 3D** and exploring how to use code to automate workflows for artists.
+*   📐 **Core Logic:** Deepening my understanding of computer science principles and software engineering structures.
+
+---
+
+## 🎯 My Goals for 2027
+*   Build custom automation scripts and add-ons for 3D digital content creation tools.
+*   Contribute to open-source tools within the indie game development and animation community.
+*   Deploy a complete portfolio of pipeline tools and automated workflows right here on GitHub.
+
+---
+
+## 📫 Connect with Me
+*   🔭 I’m currently learning: **Python 3 & Blender Scripting**
+*   ⚡ Fun fact: I picked up creative writing right where I left off drawing—I love building immersive, high-stakes fictional worlds!
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://vercel.app[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radial)
